@@ -329,11 +329,11 @@ $(document).ready(function(){
      <p onclick="detail(15)" class=" hover:text-gray-500">I9bet vang danh châu Á nhờ vào chất lượng đẳng cấp</p>
                                 <p class=""><a href="./nap-tien-vin777.html" class="hover:text-gray-500">Nạp tiền May88 | Hướng dẫn thực hiện bằng nhiều phương
                                     thức</a></p>
-                                <p class=" hover:text-gray-500">Bật mí cách truy cập link Typhu88 nạp tiền cực dễ dàng
+                                <p onclick="detail(17)" class=" hover:text-gray-500">Bật mí cách truy cập link Typhu88 nạp tiền cực dễ dàng
                                 </p>
-                                <p class=" hover:text-gray-500">Cẩm nang kinh nghiệm đặt kèo bóng đá giành chắc phần
+                                <p onclick="detail(5)" class=" hover:text-gray-500">Cẩm nang kinh nghiệm đặt kèo bóng đá giành chắc phần
                                     thắng trong tay</p>
-                                <p class=" hover:text-gray-500">Nạp Tiền Zbet Nhanh Chóng Với Đầy Đủ Các Hình Thức</p>
+                                <p onclick="detail(13)" class=" hover:text-gray-500">Casino J88 – Thiên đường giải trí đẳng cấp nhất làng cá cược</p>
         `;
   $("#link_recent_post").html(link_recent_post);
 
