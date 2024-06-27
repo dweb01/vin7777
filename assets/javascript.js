@@ -327,8 +327,7 @@ $(document).ready(function(){
   }); 
   const link_recent_post = `
      <p onclick="detail(15)" class=" hover:text-gray-500">I9bet vang danh châu Á nhờ vào chất lượng đẳng cấp</p>
-                                <p class=""><a href="./nap-tien-vin777.html" class="hover:text-gray-500">Nạp tiền May88 | Hướng dẫn thực hiện bằng nhiều phương
-                                    thức</a></p>
+                                <p class=""><a href="./nap-tien-vin777.html" class="hover:text-gray-500">Hướng Dẫn Nạp Tiền Vin7777 Nhanh Chóng, Đơn Giản Hiện Nay</a></p>
                                 <p onclick="detail(17)" class=" hover:text-gray-500">Bật mí cách truy cập link Typhu88 nạp tiền cực dễ dàng
                                 </p>
                                 <p onclick="detail(5)" class=" hover:text-gray-500">Cẩm nang kinh nghiệm đặt kèo bóng đá giành chắc phần
@@ -347,15 +346,15 @@ $(document).ready(function(){
   //   }
   // });
 
-  $("#content_right .link").each(function(){
-    c = $(this).find("#menu_link").text();
-    if(active == c){
-      $(this).find("#menu_link").addClass("text-gray-900");
+  // $("#content_right .link").each(function(){
+  //   c = $(this).find("#menu_link").text();
+  //   if(active == c){
+  //     $(this).find("#menu_link").addClass("text-gray-900");
       
-    }
+  //   }
     
     
-  });
+  // });
 
 
   $(".menu-icon").on("click", function () {
