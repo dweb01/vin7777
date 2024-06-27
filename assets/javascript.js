@@ -65,52 +65,9 @@ $(document).ready(function(){
           <div class="flex justify-center  md:justify-between items-center">
             <ul
               class="items-center py-8 *:text-white font-semibold uppercase flex-wrap *:leading-10 *:px-3 hidden md:flex *:transition-all text-xl *:duration-500">
-              <li class="relative"><a href="index.html" class="tittle_navbar">TRANG CHỦ</a></li>
-              <li class="relative"><a href="gioi-thieu-vin777.html" class="tittle_navbar">GIỚI THIỆU</a></li>
-              <li class="group relative">
-                <a href="dang-ky-vin777.html" class="flex items-center">
-                  <div class="mr-1 tittle_navbar">ĐĂNG KÝ</div>
-                  <div>
-                    <svg class="h-7 w-7 text-white inline-block transition-all duration-300 group-hover:rotate-180"
-                      width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
-                      stroke-linecap="round" stroke-linejoin="round">
-                      <path stroke="none" d="M0 0h24v24H0z"></path>
-                      <polyline points="6 9 12 15 18 9"></polyline>
-                    </svg>
-                  </div>
-                </a>
-                <div
-                  class="duration-500 opacity-0 z-10 invisible group-hover:visible group-hover:opacity-[1] group-hover:top-[4.40rem] rounded bg-white divide-y divide-gray-100 shadow absolute w-[30rem] left-0 top-[6.97rem]">
-                  <ul class="px-5 text-xl text-gray-500  *:py-4 *:border-b">
-                    <li class="hover:text-gray-700">
-                      <a onclick="url()" class="transition-all cursor-pointer">
-                        <span>Đăng Nhập</span>
-                      </a>
-                    </li>
-                    <li class="hover:text-gray-700">
-                      <a onclick="url()" class="transition-all cursor-pointer">
-                        <span>Tải App</span>
-                      </a>
-                    </li>
-                    <li class="hover:text-gray-700">
-                      <a onclick="url()" class="transition-all cursor-pointer">
-                        <span>Nạp Tiền</span>
-                      </a>
-                    </li>
-                    <li class="hover:text-gray-700">
-                      <a onclick="url()" class="transition-all cursor-pointer">
-                        <span>Rút Tiền</span>
-                      </a>
-                    </li>
-                    <li class="hover:text-gray-700">
-                      <a onclick="url()" class="transition-all cursor-pointer">
-                        <span>Khuyến Mại</span>
-                      </a>
-                    </li>
-
-                  </ul>
-                </div>
-              </li>
+              <li class="relative"><a href="./index.html" class="tittle_navbar">TRANG CHỦ</a></li>
+              <li class="relative"><a href="./gioi-thieu-vin777.html" class="tittle_navbar">GIỚI THIỆU</a></li>
+              <li class="relative"><a href="./dang-ky-vin777.html" class="tittle_navbar">ĐĂNG KÝ</a></li>
               <li class="relative"><a href="./casino-online-vin777.html" class="tittle_navbar">CASINO</a></li>
               <li class="relative"><a href="./the-thao-vin777.html" class="tittle_navbar">THỂ THAO</a></li>
               <li class="relative"><a href="./xo-so-vin777.html" class="tittle_navbar">XỔ SỐ</a></li>
@@ -151,29 +108,12 @@ $(document).ready(function(){
           <span class="ml-3">GIỚI THIỆU</span>
         </a>
       </li>
+      
       <li>
-        <button type="button" class="flex items-center w-full px-5 py-6 text-2xl font-medium text-gray-500  rounded-lg hover:bg-gray-200" >
-          <a  href="dang-ky-vin777.html"  class="flex-1 ml-3 text-left whitespace-nowrap">ĐĂNG KÝ</a>
-          <svg
-            class="w-10 h-10 icon-dropdown-side-menu-mobile transition-all duration-500"
-            fill="currentColor"
-            viewBox="0 0 20 20"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              fill-rule="evenodd"
-              d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
-              clip-rule="evenodd"
-            ></path>
-          </svg>
-        </button>
-        <ul  class=" sub-menu-side-menu-mobile  space-y-2  *:px-14 *:py-5 *:flex *:items-center *:w-full *:text-2xl *:font-medium *:text-gray-500  *:rounded-lg">
-          <li class="hover:bg-gray-200 "><a onclick="url()" class="cursor-pointer">ĐĂNG NHẬP</a></li>
-          <li class=" hover:bg-gray-200"><a onclick="url()" class="cursor-pointer">TẢI APP</a></li>
-          <li class=" hover:bg-gray-200"><a onclick="url()" class="cursor-pointer">NẠP TIỀN</a></li>
-          <li class=" hover:bg-gray-200"><a onclick="url()" class="cursor-pointer">RÚT TIỀN</a></li>
-          <li class=" hover:bg-gray-200"><a onclick="url()" class="cursor-pointer">KHUYẾN MẠI</a></li>
-        </ul>
+        <a href="./dang-ky-vin777.html"
+          class="flex items-center px-5 py-6 font-medium text-2xl text-gray-500 rounded-lg hover:bg-gray-200">
+          <span class="ml-3">ĐĂNG KÝ</span>
+        </a>
       </li>
       <li class="">
         <a href="./casino-online-vin777.html"
