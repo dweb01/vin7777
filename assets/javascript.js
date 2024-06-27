@@ -326,9 +326,9 @@ $(document).ready(function(){
       $("html, body").animate({ scrollTop: 0 }, "600");
   }); 
   const link_recent_post = `
-     <p class=" hover:text-gray-500">I9bet vang danh châu Á nhờ vào chất lượng đẳng cấp</p>
-                                <p class=" hover:text-gray-500">Nạp tiền May88 | Hướng dẫn thực hiện bằng nhiều phương
-                                    thức</p>
+     <p onclick="detail(15)" class=" hover:text-gray-500">I9bet vang danh châu Á nhờ vào chất lượng đẳng cấp</p>
+                                <p class=""><a href="./nap-tien-vin777.html" class="hover:text-gray-500">Nạp tiền May88 | Hướng dẫn thực hiện bằng nhiều phương
+                                    thức</a></p>
                                 <p class=" hover:text-gray-500">Bật mí cách truy cập link Typhu88 nạp tiền cực dễ dàng
                                 </p>
                                 <p class=" hover:text-gray-500">Cẩm nang kinh nghiệm đặt kèo bóng đá giành chắc phần
